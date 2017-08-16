@@ -7,5 +7,5 @@ class Maratona():
         pass
 
     def correr(self, Pessoa):
-        Pessoa.andar()
         Pessoa.pagar()
+        Pessoa.andar()
